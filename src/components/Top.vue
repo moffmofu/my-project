@@ -11,7 +11,7 @@ export default {
   data () {
     return {
       name: 'NAME',
-      text: 'top page'
+      text: 'top pagelll'
     }
   }
 }
