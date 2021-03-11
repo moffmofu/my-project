@@ -1,6 +1,6 @@
 <template>
   <div class="output">
-    <img alt="Vue logo" v-bind:src="@/assets/blue.png">
+    <img alt="Vue logo" src="@/assets/blue.png">
     <h3> {{ name }} </h3>
     <p> {{ text }} </p>
   </div>
